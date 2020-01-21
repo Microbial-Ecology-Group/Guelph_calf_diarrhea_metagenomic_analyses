@@ -1,0 +1,32 @@
+ID,CSU ID,CSU_Long_ID,Farm,Time,Group_label,Group,Order,ID on Tube,Matrix,Organism
+F1O10_S21_L004,F1O10,Farm 1 Post Sample 10,Farm1,Post,Farm1_Post,Farm 1 Post,2,10,Feces,Cow
+F1O11_S22_L004,F1O11,Farm 1 Post Sample 11,Farm1,Post,Farm1_Post,Farm 1 Post,2,11,Feces,Cow
+F1O12_S23_L004,F1O12,Farm 1 Post Sample 12,Farm1,Post,Farm1_Post,Farm 1 Post,2,12,Feces,Cow
+F1O13_S24_L004,F1O13,Farm 1 Post Sample 13,Farm1,Post,Farm1_Post,Farm 1 Post,2,13,Feces,Cow
+F1O14_S25_L004,F1O14,Farm 1 Post Sample 14,Farm1,Post,Farm1_Post,Farm 1 Post,2,14,Feces,Cow
+F1O3_S18_L004,F1O3,Farm 1 Post Sample 3,Farm1,Post,Farm1_Post,Farm 1 Post,2,3,Feces,Cow
+F1O8_S19_L004,F1O8,Farm 1 Post Sample 8,Farm1,Post,Farm1_Post,Farm 1 Post,2,8,Feces,Cow
+F1O9_S20_L004,F1O9,Farm 1 Post Sample 9,Farm1,Post,Farm1_Post,Farm 1 Post,2,9,Feces,Cow
+F1R1_S3_L004,F1R1,Farm 1 Pre Sample 1,Farm1,Pre,Farm1_Pre,Farm 1 Pre,1,1,Feces,Cow
+F1R3_S4_L004,F1R3,Farm 1 Pre Sample 3,Farm1,Pre,Farm1_Pre,Farm 1 Pre,1,3,Feces,Cow
+F1R5_S6_L004,F1R5,Farm 1 Pre Sample 5,Farm1,Pre,Farm1_Pre,Farm 1 Pre,1,5,Feces,Cow
+F1R9_S8_L004,F1R9,Farm 1 Pre Sample 9,Farm1,Pre,Farm1_Pre,Farm 1 Pre,1,9,Feces,Cow
+F1R11_S9_L004,F1R11,Farm1 Pre Sample 11,Farm1,Pre,Farm1_Pre,Farm 1 Pre,1,3809,Feces,Cow
+F1R4_S5_L004,F1R4,Farm1 Pre Sample 4,Farm1,Pre,Farm1_Pre,Farm 1 Pre,1,3795,Feces,Cow
+F1R7_S7_L004,F1R7,Farm1 Pre Sample 7,Farm1,Pre,Farm1_Pre,Farm 1 Pre,1,533,Feces,Cow
+F2O1_S26_L004,F2O1,Farm 2 Post Sample 1,Farm2,Post,Farm2_Post,Farm 2 Post,4,1,Feces,Cow
+F2O12_S31_L004,F2O12,Farm 2 Post Sample 12,Farm2,Post,Farm2_Post,Farm 2 Post,4,12,Feces,Cow
+F2O14_S32_L004,F2O14,Farm 2 Post Sample 14,Farm2,Post,Farm2_Post,Farm 2 Post,4,14,Feces,Cow
+F2O15_S33_L004,F2O15,Farm 2 Post Sample 15,Farm2,Post,Farm2_Post,Farm 2 Post,4,15,Feces,Cow
+F204_S27_L004,F204,Farm 2 Post Sample 4,Farm2,Post,Farm2_Post,Farm 2 Post,4,4,Feces,Cow
+F2O5_S28_L004,F2O5,Farm 2 Post Sample 5,Farm2,Post,Farm2_Post,Farm 2 Post,4,5,Feces,Cow
+F2O7_S29_L004,F2O7,Farm 2 Post Sample 7,Farm2,Post,Farm2_Post,Farm 2 Post,4,7,Feces,Cow
+F2O9_S30_L004,F2O9,Farm 2 Post Sample 9,Farm2,Post,Farm2_Post,Farm 2 Post,4,9,Feces,Cow
+F2R22_S10_L004,F2R22,Farm 2 Pre Sample 22,Farm2,Pre,Farm2_Pre,Farm 2 Pre,3,22,Feces,Cow
+F2R23_S11_L004,F2R23,Farm 2 Pre Sample 23,Farm2,Pre,Farm2_Pre,Farm 2 Pre,3,7485,Feces,Cow
+F2R24_S12_L004,F2R24,Farm 2 Pre Sample 24,Farm2,Pre,Farm2_Pre,Farm 2 Pre,3,24,Feces,Cow
+F2R26_S13_L004,F2R26,Farm 2 Pre Sample 26,Farm2,Pre,Farm2_Pre,Farm 2 Pre,3,26,Feces,Cow
+F2R28_S14_L004,F2R28,Farm 2 Pre Sample 28,Farm2,Pre,Farm2_Pre,Farm 2 Pre,3,28,Feces,Cow
+F2R30_S15_L004,F2R30,Farm 2 Pre Sample 30,Farm2,Pre,Farm2_Pre,Farm 2 Pre,3,7498,Feces,Cow
+F2R33_S16_L004,F2R33,Farm 2 Pre Sample 33,Farm2,Pre,Farm2_Pre,Farm 2 Pre,3,8534,Feces,Cow
+F2R35_S17_L004,F2R35,Farm 2 Pre Sample 35,Farm2,Pre,Farm2_Pre,Farm 2 Pre,3,35,Feces,Cow
