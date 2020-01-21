@@ -1,2 +1,3 @@
-# MEG_R_metagenomic_analysis
-Code to combine results from Qiime2 and AmrPlusPlus for analysis with metagenomeSeq.
+# This repository contains the resistome results and R code for the manuscript, "ENTER NAME". 
+
+Further documention to be added
