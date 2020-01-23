@@ -11,7 +11,8 @@ Further documention to be added
 
 
 # List of all R packages used:
-
+R version 3.5.1 (2018-07-02)
+RStudio Version 1.1.456
 * ggthemes_4.2.0       
 * ggrepel_0.8.1        
 * gplots_3.0.1.1      
